@@ -1,0 +1,15 @@
+{
+"name": "Healthy Drinking Water in Africa",
+"short_name":" HealthyWater "
+
+"start_url": ".",
+"display": "standalone",
+"background_color": "#FFFFFF",
+"theme_color": "#1F5B4A
+",
+"icons": [{
+"src": "icon.png",
+"sizes": "512x512",
+"type": "image/png"
+}]
+}
